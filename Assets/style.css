@@ -31,18 +31,6 @@ span {
   opacity: 0;
 }
 
-input:focus {
-  border: 2px solid #2890b9;
-  outline: none;
-  background: #fff;
-}
-
-
-li:nth-child(2n) {
-  background: #f7f7f7;
-}
-
-
 .list {
   background: #fff;
   border: 2px solid #fff;
